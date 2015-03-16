@@ -1,0 +1,23 @@
+PODS:
+  - AsyncDisplayKit (1.1.1):
+    - AsyncDisplayKit/ASDealloc2MainObject (= 1.1.1)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.1.1)
+  - COSTouchVisualizer (1.0.3)
+  - pop (1.0.7)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+
+DEPENDENCIES:
+  - AsyncDisplayKit
+  - COSTouchVisualizer
+  - pop
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  AsyncDisplayKit: 897b28140c6c73fbe8d6168f19ce7cbd87c94ee8
+  COSTouchVisualizer: 2edcc5626758400d90e50ebf5a7740076c82d1b5
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+
+COCOAPODS: 0.36.0.rc.1
